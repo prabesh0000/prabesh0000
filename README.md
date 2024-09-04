@@ -1,5 +1,5 @@
 # 💫 About Me:
- -🔭 I’m currently working on building a portfolio website <br>- 🌱 I’m currently learning django <br>- 👯 I’m looking to collaborate on  remote minor projects<br>- 📫 How to reach me: prabeshghatani@gmail.com  , 9742464115(viber,whatsapp)<br>- ⚡ Fun fact: 1 LIFE SO ENJOY TO THE FULLEST <br>
+ -🔭 I’m currently working on building a Hospital Management System <br>- 🌱 I’m currently learning django <br>- 👯 I’m looking to collaborate on  remote minor projects<br>- 📫 How to reach me: prabeshghatani@gmail.com  , 9742464115(viber,whatsapp)<br>- ⚡ Fun fact: 1 LIFE SO ENJOY TO THE FULLEST <br>
 
 
 ## 🌐 Socials:
